@@ -28,7 +28,7 @@
     "web3": "^1.5.3",
     "web3connect": "^1.0.0-beta.33"
   },
-  "proxy": "https://zeur-minter.herokuapp.com",
+  "proxy": "https://zeur-minter.herokuapp.com/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
