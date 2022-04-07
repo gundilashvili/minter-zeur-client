@@ -1,0 +1,2 @@
+/api/*  https://crd-network-airdrop-v2-server.herokuapp.com/api/:splat  200
+/* /index.html 200
